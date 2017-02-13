@@ -1,0 +1,25 @@
+# Site settings
+title: Identity
+email: mhghodsi@gmail.com
+description: The Jekyll version of the Identity theme by HTML5 UP.
+#baseurl: "/identity-jekyll-theme" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site
+
+# Identity
+your-name: Hossein Ghodsi
+your-title: Software Developer
+
+# Social settings
+500px_url:
+facebook_url: https://facebook.com
+github_url: https://github.com/u/mhghodsi
+gitlab_url:
+googleplus_url:
+instagram_url: https://instagram.com
+linkedin_url: https://www.linkedin.com/in/mhghodsi
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/mhghodsi
+
+# Build settings
+markdown: kramdown
